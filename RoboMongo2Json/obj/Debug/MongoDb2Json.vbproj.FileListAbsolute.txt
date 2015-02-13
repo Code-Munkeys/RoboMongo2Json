@@ -1,0 +1,11 @@
+C:\Coding\Csharp\MongoDb2Json\MongoDb2Json\bin\Debug\MongoDB2Json.exe.config
+C:\Coding\Csharp\MongoDb2Json\MongoDb2Json\bin\Debug\MongoDb2Json.exe
+C:\Coding\Csharp\MongoDb2Json\MongoDb2Json\bin\Debug\MongoDb2Json.pdb
+C:\Coding\Csharp\MongoDb2Json\MongoDb2Json\bin\Debug\MongoDb2Json.xml
+C:\Coding\Csharp\MongoDb2Json\MongoDb2Json\obj\Debug\MongoDb2Json.RemoveComments.resources
+C:\Coding\Csharp\MongoDb2Json\MongoDb2Json\obj\Debug\MongoDb2Json.Resources.resources
+C:\Coding\Csharp\MongoDb2Json\MongoDb2Json\obj\Debug\MongoDb2Json.vbproj.GenerateResource.Cache
+C:\Coding\Csharp\MongoDb2Json\MongoDb2Json\obj\Debug\MongoDb2Json.exe
+C:\Coding\Csharp\MongoDb2Json\MongoDb2Json\obj\Debug\MongoDb2Json.xml
+C:\Coding\Csharp\MongoDb2Json\MongoDb2Json\obj\Debug\MongoDb2Json.pdb
+C:\Coding\Csharp\MongoDb2Json\MongoDb2Json\bin\Debug\RoboMongo2Json.exe.config
